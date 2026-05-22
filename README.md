@@ -8,9 +8,9 @@ A complete Food Delivery App covering all major React Navigation patterns: neste
 
 | | Link |
 |---|---|
-| GitHub Repo | *(add your public repo link here)* |
-| Demo Video | *(add your 2-min Loom/YouTube link here)* |
-| TLDraw Diagram | *(add your tldraw.com share link here)* |
+| GitHub Repo | *(https://github.com/pratikjadhav222/foodUi)* |
+| Demo Video | *(https://youtube.com/shorts/By9gWSYzF1w?si=mAlxqPyg108r9XKM)* |
+
 
 ---
 
